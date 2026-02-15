@@ -1,1 +1,1 @@
-Project Preview : https://codewithvinayakkamble.github.io/odin-recipes/
+Project Preview : https://codewithvinayakkamble.github.io/Project-Odin_recipes/
